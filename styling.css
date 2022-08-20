@@ -64,7 +64,7 @@ h1 a {
 #menu {
     height: 70px;
     background: linear-gradient(#9f7cdf, #4fb0d6);
-    background: -webkit-linear-gradient(#8de2ba, #61e061);
+    background: -webkit-linear-gradient(#cc5c94, #4a48d1);
     background: -o-linear-gradient(#c582c2, #e78e8e);
     background: -moz-linear-gradient(#80e2ca, #66a4d6);
     padding: 7px 0;
@@ -78,7 +78,7 @@ ul {
     float: left;
     padding: 0 30px;
     height: 30px;
-    border-right: 1px solid #5d12e7;
+    border-right: 1px solid #da4059;
 }
 
 #menu ul li:last-child {
